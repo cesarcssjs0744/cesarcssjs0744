@@ -1,0 +1,27 @@
+#Inicio {
+	scroll-margin-top: 70px;
+}
+#HTML{
+	scroll-margin-top: 70px;
+}
+#CSS{
+	scroll-margin-top: 70px;
+}
+#JavaScript{
+	scroll-margin-top: 70px;
+}
+
+
+body{
+	font-family: Montserrat,sans-serif;
+	background-color: white;
+	color: black;
+
+	padding-top: 70px;
+}
+a{
+	text-decoration:none;
+	color: black;
+}
+
+

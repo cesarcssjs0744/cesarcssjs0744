@@ -1,0 +1,45 @@
+.inicio-info{
+	margin-bottom: 45px;
+}
+.inicio-img{
+	width: 80%;
+	max-width: 250px;
+
+}
+.inicio{
+	text-align: center;
+	
+}
+.inicio-titulo{
+	font-size: 35px;
+	font-weight: bold;
+	margin:0;
+	color:#77070B;
+
+}
+
+
+@media(min-width: 950px){
+.inicio-info{
+	margin-bottom: 0px;
+}
+.inicio-img{
+	width: 100%;
+	max-width: 350px;
+	
+
+}
+.inicio{
+	text-align: left;
+	display: flex;
+	justify-content: space-between;
+	max-width: 980px;/*780px*/
+	margin:0 auto;
+	align-items: center;
+}
+.inicio-titulo{
+	font-size: 60px;
+		
+}
+
+}
